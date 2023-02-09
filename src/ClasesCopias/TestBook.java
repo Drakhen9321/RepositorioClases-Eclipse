@@ -6,6 +6,10 @@ public class TestBook {
 		Book lib = new Book(); 
 		Book myBooklet = new Book(); 
 		Book quixote = new Book(); 
+<<<<<<< HEAD
+		Book Guerraypaz = new Book();
+=======
 		Book Hamlet = new Book();
+>>>>>>> refs/heads/Branch1
 		}
 }
