@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Test {
 	 public static void MuestraMayorDeEdad(Persona p) {
-		 
+	       System.out.println("Jorge ha estado aquí");
 	       System.out.println(p.esMayorDeEdad());
 	    }
 	public static void main(String[] args) {
