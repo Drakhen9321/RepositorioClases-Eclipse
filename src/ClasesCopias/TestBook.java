@@ -6,5 +6,6 @@ public class TestBook {
 		Book lib = new Book(); 
 		Book myBooklet = new Book(); 
 		Book quixote = new Book(); 
+		Book Hamlet = new Book();
 		}
 }
